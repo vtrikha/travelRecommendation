@@ -76,3 +76,47 @@ nav-links a:hover{
 .reset-btn:hover {
     background: #555;
    }
+
+   /* Footer */
+footer {
+    background-color: #0b2239;
+    color: white;
+    padding: 40px 20px 10px;
+    text-align: center;
+  }
+  
+  .footer-content h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  
+  .footer-content p {
+    font-size: 1rem;
+    max-width: 600px;
+    margin: 0 auto 20px;
+  }
+  
+  .socials a {
+    margin: 0 12px;
+    color: white;
+    font-size: 1.5rem;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .socials a:hover {
+    color: #f9a825;
+    transform: scale(1.2);
+  }
+  
+  .footer-bottom {
+    border-top: 1px solid #ffffff30;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-size: 0.9rem;
+    color: #ccc;
+  }
+
+  
+
+
